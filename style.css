@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.textbox {
+    margin-bottom: 10px;
+}
+.explanation{
+    /* font-size: 0.8em; */
+    color: #666;
+    border: #666 1px solid;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 50%;
+}
